@@ -1,7 +1,5 @@
 # cpf 477.233.043-74
 
-import re 
-import sys
 
 ##input_cpf = input("CPF [477.233.043-74]:")
 
